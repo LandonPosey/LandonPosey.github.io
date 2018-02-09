@@ -7,3 +7,7 @@ This is my 360 image
 ###CameraEffects
 
 ![filter](Lord Tachanka is watching.png?raw=true "Optional Title")
+
+
+
+<script src="/scripts/embed.js" data-vizorurl="https://patches.vizor.io/embed/landonp/first-try" ></script>
