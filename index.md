@@ -8,6 +8,8 @@ This is my 360 image
 
 ![filter](Lord Tachanka is watching.png?raw=true "Optional Title")
 
+***
+
 ###StoryScape
 
 <script src="/scripts/embed.js" data-vizorurl="https://patches.vizor.io/embed/landonp/first-try" ></script>
